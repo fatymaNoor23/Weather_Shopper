@@ -19,3 +19,4 @@ Scenario: Shop for sunscreens when the weather is above 34 degrees
 when the weather is above 34 degrees
 Then I should be taken to the sunscreens page
 
+
